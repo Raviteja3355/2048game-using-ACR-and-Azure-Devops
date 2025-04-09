@@ -1,10 +1,10 @@
 Project main goal is to deploy an application 2048 game in kubernetes cluster using ACR in Azure Devops.
 
 #################################   prerequists ###############################################
-Create azure devops subscription 
-create azure service connection 
-Create an azure container registry 
-Create an Azure Kubernetes cluster. (Make sure you need to add to the ACR name as integration)
+1) Create azure devops subscription 
+2) create azure service connection 
+3) Create an azure container registry 
+4) Create an Azure Kubernetes cluster. (Make sure you need to add to the ACR name as integration)
 
 ################################# Detailed Process ################################################
 Azure devops >> repos >> import the repo's >> using githhub url.
